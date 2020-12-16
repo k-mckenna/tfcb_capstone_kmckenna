@@ -4,7 +4,17 @@ author: "Kelly McKenna"
 date: "12/15/2020"
 output: html_document
 ---
-## Question 1: Can I reproduce their tidy datasets? imputed & clustered and recreate fig 2A from the paper?
+
+About the data:
+I am assuming that the raw data file is correct and that the deletions of certain missing values is a best practice. 
+
+Intro:
+This code starts by using the raw data file from the paper and sequentially cleaning it up to get rid of missing values and then runs a unbiased clustering analysis. the outputs are 2 tidy data files kmckenna_imputed and kmckenna_clustered as well as a PDF called hierarchical_clust_Q1 in the images directory. 
+
+ Question 1: Can I reproduce their tidy datasets? imputed & clustered and recreate fig 2A from the paper?
+ conclusions:
+ yes, I can reproduce their tidy data sets and recreated figure 2A! I also was able to get through all 10 Rmd files of their code (not shown) and reproduce all the figures they made. I am very proud of my ability to understand and work through the bugs and roadblocks I found in each script. 
+
 
 Analysis of missing data & imputation
 =================================================================
@@ -884,7 +894,7 @@ heatmap.3(imputedMatrix, Rowv=as.dendrogram(hr), Colv=as.dendrogram(hc), col=gre
 
 
 
-pdf( paste(myWorkDirectory, "images/hierarchical_clust.pdf",sep=""), width = 8, height = 6,family="Helvetica")
+pdf( paste(myWorkDirectory, "images/hierarchical_clust_Q1.pdf",sep=""), width = 8, height = 6,family="Helvetica")
 
 par(oma=c(0,2,0,0))
 heatmap.3(imputedMatrix, Rowv=as.dendrogram(hr), Colv=as.dendrogram(hc), col=greenred(100), scale="none", density.info="none",  ColSideColors=columnColorKeyTS)
@@ -902,4 +912,5 @@ write.csv(kmckennaDataImputed, clusteredKMFileName, row.names=F, na="")
 
 -- End of hierarchical cluster analysis --
 
-
+Reproducibility:
+I was able to take the code from the paper and recreate their figure. The directories need to be changed for different users. This code  should work for anyone else. I original code had some errors with wrong type or data or coercion, but I was able to figure out the bugs and make it work. 

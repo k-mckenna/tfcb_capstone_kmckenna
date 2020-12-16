@@ -4,20 +4,25 @@ author: "Kelly McKenna"
 date: "12/15/2020"
 output: html_document
 ---
+“About the data”
+This code starts bt using the tidy dataset file that I reproduced in Q1. I then create a table with the clusters and clinical diagnoses. i Graphically display them using a bar graph colored by IHC cluster. the output is a PDF in the images directory labeled clin_diag_by_clust_Q2
+
 
 Question 2: How well does anatomical diagnosis match up with the Immunohistochemical clustering?
-  (Should we use IHC or anotomical location?)
-
+  (Should we use IHC or anatomical location?)
+Interpretation:
+After looking at this data(see output file), I think that using IHC data is a better way to categorize the types of cancer. the only anatomical location that was similar to the cluster was hepatocellular carcinoma, which to me makes sense because that is the most distinguishable cancer/ has other risk factors that could help make the diagnosis. 
 
 ```{r, "Extra Figure 1"}
 library(extrafont)
 loadfonts()
 
+#set working directory and read file
 myWorkDirectory <- "~/Desktop/TFCB/tfcb_capstone_kmckenna/"
 clusteredKMFileName <- paste(myWorkDirectory, "data/kmckenna_clustered.csv", sep="")
 kmckennaDataClustered <- read.csv(file = clusteredKMFileName, row.names = 30, colClasses= c(rep("numeric",27), rep("factor",2), "character"), na.strings = "",quote="\"" )
 
-
+#create table with cluster and clinical diagnosis
 counts <- table( kmckennaDataClustered$cluster, kmckennaDataClustered$clin_diag)
 ids=rownames(counts)
 rownames(counts)=paste(toupper(substr(ids, 1, 1)), substr(ids, 2, nchar(ids)), sep="")
@@ -40,8 +45,9 @@ rownames(counts)[which(rownames(counts)==aCluster)]=
   paste(aCluster," (n=", table(kmckennaDataClustered$cluster)[[tolower(aCluster)]],")", sep="")
 }
 
-pdf(paste(myWorkDirectory, "images/clin_diag_by_clust.pdf", sep=""), height=8, width=12, family="Helvetica")
+pdf(paste(myWorkDirectory, "images/clin_diag_by_clust_Q2.pdf", sep=""), height=8, width=12, family="Helvetica")
 
+#transpose bar graph to view opposite correlation. 
 par(mar=c(10,10,5,13), oma=c(0,9,0,0))
 barplot(t(counts), main=paste("Anatomical Diagnosis by Immunohistochemical cluster", 
                            "                                                        ",sep=""),
@@ -58,7 +64,9 @@ dev.off()
 
 ```
 
-
+Reproducibiliity:
+I was able to work from the base code that they provided and create a new figure. Other than changing the directories, this code should work for anyone. 
+There were bugs in here that the code did not work for me right away. I think I fixed the errors and it should work. 
 
 
 
