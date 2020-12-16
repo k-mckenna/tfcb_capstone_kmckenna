@@ -1,0 +1,357 @@
+pad,date_birth,gender,date_pad,type_probe,p_t,p_n,date_death,age_pad,age_pad_years,surv_time,death_observed,clin_diag,cluster
+Ampulla Ac|124,3/5/36,m,4/26/05,r,3,1,4/13/07,829.7,69.14,,,Ampullary carcinoma,extrahepatic pancreatobiliary
+Ampulla Ac|177,5/27/17,f,9/20/05,b,,,5/28/06,1059.8,88.32,,,Ampullary carcinoma,extrahepatic pancreatobiliary
+Ampulla Ac|200,5/29/32,f,2/9/12,b,,,12/16/12,956.37,79.7,,,Ampullary carcinoma,extrahepatic pancreatobiliary
+Ampulla Ac|225,11/23/36,m,4/18/11,r,2,0,8/14/11,892.86,74.4,,,Ampullary carcinoma,extrahepatic pancreatobiliary
+Ampulla Ac|235,11/23/31,m,5/6/09,b,,,5/11/09,929.43,77.45,,,Ampullary carcinoma,intestinal
+Ampulla Ac|237,6/5/55,f,4/14/08,r,1,0,2/3/10,634.3,52.86,,,Ampullary carcinoma,intestinal
+Ampulla Ac|241,8/11/69,m,6/18/09,b,,,11/22/10,478.23,39.85,,,Ampullary carcinoma,extrahepatic pancreatobiliary
+Ampulla Ac|254,1/1/73,m,10/26/09,r,3,1,,441.81,36.82,81.23,0,Ampullary carcinoma,intestinal
+Ampulla Ac|262,10/17/23,f,8/27/02,r,3,0,8/7/14,946.32,78.86,,,Ampullary carcinoma,unclassified
+Ampulla Ac|298,11/10/39,m,1/21/10,r,1,0,8/30/12,842.35,70.2,,,Ampullary carcinoma,extrahepatic pancreatobiliary
+Ampulla Ac|335,8/21/26,f,5/18/09,r,3,0,2/8/12,992.88,82.74,,,Ampullary carcinoma,extrahepatic pancreatobiliary
+Ampulla Ac|383,11/23/58,f,2/18/10,r,3,1,8/21/11,614.9,51.24,,,Ampullary carcinoma,intestinal
+Ampulla Ac|390,1/2/42,f,11/24/09,b,,,2/22/10,814.73,67.89,,,Ampullary carcinoma,intestinal
+Ampulla Ac|434,10/23/35,f,1/25/07,r,3,1,9/12/09,855.06,71.26,,,Ampullary carcinoma,extrahepatic pancreatobiliary
+Ampulla Ac|47,1/16/52,m,2/12/07,b,,,9/2/12,660.91,55.07,,,Ampullary carcinoma,extrahepatic pancreatobiliary
+Ampulla Ac|5,1/6/31,f,3/30/09,r,4,1,11/3/09,938.77,78.23,,,Ampullary carcinoma,extrahepatic pancreatobiliary
+Ampulla Ac|57,6/4/20,f,2/1/07,b,,,12/23/07,1039.91,86.66,,,Ampullary carcinoma,intrahepatic cholangiocarcinoma
+Ampulla Ac|59,1/26/53,m,8/17/09,r,3,1,11/2/13,678.71,56.56,,,Ampullary carcinoma,extrahepatic pancreatobiliary
+Ampulla Ac|65,12/8/44,m,9/2/11,r,1,0,,800.81,66.74,59,0,Ampullary carcinoma,unclassified
+Ampulla Ac|93,9/20/42,f,4/12/05,b,,,1/10/06,750.75,62.56,,,Ampullary carcinoma,intestinal
+Distal Bile Duct Ac|223,2/10/39,m,6/8/11,r,3,1,3/22/13,867.94,72.32,,,Distal bile duct cancer,extrahepatic pancreatobiliary
+Distal Bile Duct Ac|251,6/10/38,m,5/16/11,r,2,0,,875.19,72.93,62.55,0,Distal bile duct cancer,intestinal
+Distal Bile Duct Ac|258,12/5/46,m,10/7/10,r,3,0,9/11/12,766.06,63.84,,,Distal bile duct cancer,extrahepatic pancreatobiliary
+Distal Bile Duct Ac|281,11/3/38,f,9/13/12,b,,,3/9/13,886.33,73.86,,,Distal bile duct cancer,extrahepatic pancreatobiliary
+Distal Bile Duct Ac|391,2/23/63,f,2/22/12,r,3,1,,588.02,49,53.35,0,Distal bile duct cancer,extrahepatic pancreatobiliary
+Distal Bile Duct Ac|91,4/22/45,m,8/25/04,r,2,x,1/22/12,712.1,59.34,,,Distal bile duct cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|108,12/2/29,f,12/7/10,r,3,1,8/23/12,972.16,81.01,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|130,1/8/46,f,4/8/05,r,4,2,10/3/05,711,59.25,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|132,1/2/31,f,12/9/09,b,,,6/30/10,947.23,78.93,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|134,2/28/42,f,3/13/13,b,,,4/22/13,852.42,71.04,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|148,5/4/45,m,3/16/11,r,is,0,,790.39,65.87,64.55,0,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|157,3/2/32,f,11/8/10,b,,,11/29/10,944.2,78.69,,,Gallbladder cancer,unclassified
+Gallbladder Ac|192,8/1/39,m,10/1/08,r,3,1,4/15/11,830,69.17,,,Distal bile duct cancer,intrahepatic cholangiocarcinoma
+Gallbladder Ac|196,1/29/37,f,9/6/06,r,2,x,3/5/11,835.26,69.6,,,Gallbladder cancer,intestinal
+Gallbladder Ac|203,8/30/37,f,2/19/13,b,,,,905.71,75.47,41.45,0,Gallbladder cancer,intrahepatic cholangiocarcinoma
+Gallbladder Ac|211,3/11/46,f,5/4/12,b,,,10/8/12,793.76,66.15,,,Gallbladder cancer,intestinal
+Gallbladder Ac|229,12/18/48,f,7/21/10,r,2,x,5/31/13,739.1,61.59,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|23,7/2/45,f,7/26/12,b,,,4/29/14,804.77,67.07,,,Gallbladder cancer,intrahepatic cholangiocarcinoma
+Gallbladder Ac|230,11/23/28,f,7/11/05,b,,,8/5/05,919.59,76.63,,,Gallbladder cancer,hepatocellular carcinoma
+Gallbladder Ac|270,2/9/44,f,2/2/11,b,,,11/8/11,803.78,66.98,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|283,2/4/43,m,11/8/12,r,3,1,11/11/14,837.13,69.76,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|286,10/12/50,f,11/4/10,b,,,5/10/11,720.75,60.06,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|292,2/2/29,m,5/24/06,b,,,12/29/06,927.71,77.3,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|295,2/6/51,m,9/21/11,b,,,1/30/12,727.5,60.62,,,Gallbladder cancer,unclassified
+Gallbladder Ac|297,8/4/42,f,10/5/12,b,,,4/15/13,842.03,70.17,,,Gallbladder cancer,intestinal
+Gallbladder Ac|31,7/6/24,f,9/4/06,b,,,11/3/06,985.94,82.16,,,Gallbladder cancer,intrahepatic cholangiocarcinoma
+Gallbladder Ac|311,11/18/45,f,8/4/10,r,2,1,1/25/13,776.55,64.71,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|318,8/7/30,f,5/18/05,b,,,12/11/05,897.35,74.78,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|320,11/2/55,f,12/15/11,b,,,7/10/12,673.42,56.12,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|326,11/1/49,m,3/22/13,b,,,11/12/13,760.68,63.39,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|350,3/10/47,f,5/11/10,b,,,7/23/10,758.03,63.17,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|365,3/21/57,m,8/8/12,r,2,0,,664.58,55.38,47.81,0,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|374,10/22/40,f,12/15/05,b,,,4/30/06,781.75,65.15,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|396,11/1/49,m,6/20/11,r,4,2,2/17/12,739.63,61.63,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|425,4/24/38,f,2/25/10,b,,,9/1/10,862.04,71.84,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|427,6/19/61,f,9/29/09,r,4,0,8/14/10,579.33,48.28,,,Gallbladder cancer,unclassified
+Gallbladder Ac|77,2/28/44,f,6/21/10,r,3,1,8/5/12,795.8,66.31,,,Gallbladder cancer,extrahepatic pancreatobiliary
+Gallbladder Ac|78,2/23/32,f,7/15/09,b,,,9/27/09,928.72,77.39,,,Gallbladder cancer,unclassified
+Hepatocellular Cancer|101,1/1/45,f,1/16/08,r,,,,756.48,63.04,102.55,0,Hepatocellular carcinoma,intrahepatic cholangiocarcinoma
+Hepatocellular Cancer|103,3/5/82,f,6/9/04,b,,,2/26/06,267.13,22.26,,,Hepatocellular carcinoma,unclassified
+Hepatocellular Cancer|105,10/29/41,m,2/20/04,b,,,3/24/04,747.75,62.31,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|106,3/29/26,f,10/9/12,b,,,4/25/13,1038.32,86.53,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|107,3/14/26,m,11/23/09,b,,,1/16/10,1004.3,83.7,,,Hepatocellular carcinoma,unclassified
+Hepatocellular Cancer|114,7/8/46,m,5/14/10,b,,,11/26/10,766.19,63.85,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|118,3/5/42,m,1/26/12,b,,,2/19/12,838.68,69.9,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|126,1/14/38,f,7/29/09,r,4,1,2/16/10,858.48,71.54,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|128,12/3/45,m,1/21/10,b,,,8/12/10,769.58,64.13,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|133,6/30/42,m,1/4/12,b,,,5/11/13,834.16,69.52,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|144,2/26/42,m,8/10/10,b,,,,821.48,68.45,71.74,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|160,4/7/34,m,9/25/06,b,,,1/10/07,869.6,72.47,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|166,11/4/45,m,10/29/10,b,,,11/16/10,779.81,64.98,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|167,7/31/42,m,7/12/11,b,,,3/17/12,827.35,68.95,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|170,11/6/54,m,10/2/08,b,,,9/17/10,646.86,53.9,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|18,12/22/44,m,5/13/09,b,,,6/24/09,772.69,64.39,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|182,10/29/37,f,11/22/05,r,,,5/19/07,816.8,68.07,,,Hepatocellular carcinoma,unclassified
+Hepatocellular Cancer|184,8/7/36,m,12/16/08,r,,,8/12/14,868.29,72.36,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|19,3/18/48,m,11/21/12,r,2,,,776.1,64.68,44.39,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|190,1/1/24,m,4/26/07,b,,,4/30/07,999.83,83.32,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|195,2/8/42,m,12/9/11,b,,,3/26/12,838.03,69.83,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|20,6/22/36,f,5/25/09,r,,,,875.1,72.92,86.26,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|202,10/27/17,m,9/16/10,b,,,9/21/10,1114.66,92.89,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|216,6/30/24,m,1/24/08,b,,,2/1/08,1002.81,83.57,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|217,9/14/49,m,8/21/09,b,,,9/30/09,719.23,59.93,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|221,12/10/55,m,5/12/08,r,,,1/26/09,629.06,52.42,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|255,5/17/44,m,5/27/10,b,,,7/20/10,792.32,66.03,,,Hepatocellular carcinoma,unclassified
+Hepatocellular Cancer|261,5/7/45,m,3/5/13,b,,,12/22/13,813.91,67.83,,,Hepatocellular carcinoma,unclassified
+Hepatocellular Cancer|274,2/1/54,f,10/27/09,r,4,,4/5/10,668.84,55.73,,,Hepatocellular carcinoma,unclassified
+Hepatocellular Cancer|275,3/9/54,m,1/19/11,r,,,,682.32,56.87,66.45,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|278,1/13/39,f,10/26/10,r,,,11/25/13,861.42,71.78,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|279,4/27/73,m,3/23/09,r,,,7/23/11,430.78,35.9,,,Hepatocellular carcinoma,unclassified
+Hepatocellular Cancer|285,11/17/50,m,1/26/06,r,,,,662.29,55.19,126.23,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|3,5/17/97,m,11/28/11,r,2,,,174.37,14.53,56.16,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|309,12/15/40,m,1/13/10,r,,,,828.94,69.08,78.65,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|317,5/5/34,m,4/20/10,b,,,8/12/10,911.5,75.96,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|322,8/26/49,m,7/26/10,r,,,,731,60.92,72.23,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|324,7/7/37,m,7/9/10,b,,,5/10/11,876.06,73.01,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|328,4/18/49,m,4/29/10,b,,,11/19/10,732.37,61.03,,,Hepatocellular carcinoma,intrahepatic cholangiocarcinoma
+Hepatocellular Cancer|329,1/13/56,m,8/9/10,r,2,,,654.87,54.57,71.77,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|333,4/2/53,m,1/14/11,b,,,2/13/11,693.39,57.79,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|336,5/27/47,f,8/24/10,r,,,,758.9,63.24,71.29,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|342,5/14/51,m,11/30/11,r,2,,12/12/13,726.53,60.55,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|345,2/21/37,m,7/28/09,r,4,x,,869.23,72.43,84.16,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|347,3/16/27,m,7/13/12,b,,,12/22/13,1023.89,85.33,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|349,5/8/69,m,5/16/13,b,,,,528.26,44.02,38.55,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|356,6/22/42,m,2/13/06,r,,,7/20/08,763.75,63.65,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|36,8/31/36,m,1/14/11,b,,,1/13/11,892.45,74.37,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|375,7/27/42,m,6/20/11,r,2,,7/28/11,826.8,68.9,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|379,8/9/31,m,3/19/10,b,,,5/27/10,943.32,78.61,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|380,10/29/36,m,7/27/05,b,,,9/11/05,824.9,68.74,,,Hepatocellular carcinoma,unclassified
+Hepatocellular Cancer|381,4/5/56,m,6/30/10,b,,,11/12/10,650.83,54.24,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|389,9/27/44,m,2/25/13,b,,,3/3/13,821.02,68.42,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|39,12/21/56,f,11/12/12,r,2,,,670.72,55.89,44.68,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|399,8/29/35,m,9/26/08,b,,,5/29/09,876.93,73.08,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|412,11/13/43,m,6/5/13,b,,,,834.75,69.56,37.9,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|413,7/26/35,m,1/21/11,b,,,3/21/12,905.84,75.49,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|415,10/9/80,f,1/24/11,r,2,1,,363.48,30.3,66.29,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|42,4/4/45,m,12/18/12,b,,,2/10/13,812.45,67.7,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|421,4/26/36,m,1/12/11,b,,,9/27/11,896.55,74.72,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|424,11/8/29,m,8/27/12,b,,,6/30/13,993.61,82.8,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|48,12/29/55,m,3/27/13,r,2,,,686.84,57.24,40.19,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|54,11/11/53,m,1/25/12,b,,,2/8/12,698.45,58.21,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|69,10/17/34,f,8/25/09,b,,,12/30/10,898.26,74.85,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|74,4/20/44,m,2/23/09,b,,,1/2/10,778.11,64.85,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|95,2/10/47,m,2/28/12,b,,,,780.62,65.05,53.16,0,Hepatocellular carcinoma,hepatocellular carcinoma
+Hepatocellular Cancer|97,10/10/44,m,9/6/11,b,,,11/16/11,802.88,66.91,,,Hepatocellular carcinoma,hepatocellular carcinoma
+Intrahepatic Cholangiocarcinoma|1,11/13/46,f,6/25/08,r,2,0,1/17/10,739.4,61.61,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|102,4/30/42,m,8/28/08,b,,,11/5/08,795.94,66.33,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|112,6/25/27,f,7/25/11,b,,,1/18/12,1009,84.08,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|116,12/19/46,f,9/29/09,b,,,6/27/11,753.33,62.78,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|140,7/21/45,f,6/3/09,b,,,7/17/11,766.42,63.87,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|141,12/31/37,f,7/8/10,b,,,1/3/14,870.22,72.52,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|143,11/14/62,f,8/6/09,b,,,5/19/10,560.74,46.73,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|147,8/23/43,m,7/9/12,r,2,x,,826.52,68.88,48.77,0,Intrahepatic cholangiocarcinoma,unclassified
+Intrahepatic Cholangiocarcinoma|152,10/5/33,f,12/5/12,r,3,0,,950,79.17,43.9,0,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|153,8/27/44,f,11/2/11,b,,,12/1/11,806.2,67.18,,,Intrahepatic cholangiocarcinoma,intestinal
+Intrahepatic Cholangiocarcinoma|161,9/17/57,f,10/6/10,r,4,1,12/27/10,636.63,53.05,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|162,9/13/39,f,7/13/11,r,3,1,3/8/12,862,71.83,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|163,4/3/47,m,1/9/12,b,,,5/20/13,777.19,64.77,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|164,10/23/38,f,1/20/12,b,,,6/17/12,878.9,73.24,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|165,10/5/54,m,7/6/12,b,,,3/21/13,693.03,57.75,,,Intrahepatic cholangiocarcinoma,unclassified
+Intrahepatic Cholangiocarcinoma|171,7/10/32,m,1/23/12,b,,,3/3/12,954.42,79.54,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|175,2/9/44,f,12/4/12,r,2,0,12/17/13,825.83,68.81,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|176,6/27/38,m,9/28/09,b,,,10/29/09,855.03,71.25,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|179,5/2/27,f,10/19/11,b,,,12/16/11,1013.55,84.47,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|180,4/8/53,m,4/30/12,b,,,5/6/12,708.73,59.06,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|191,10/13/29,f,4/25/13,b,,,,1002.4,83.53,39.26,0,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|194,12/15/66,f,11/10/11,b,,,12/20/11,538.85,44.9,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|198,7/8/54,m,7/2/13,b,,,6/30/14,707.8,58.98,,,Intrahepatic cholangiocarcinoma,unclassified
+Intrahepatic Cholangiocarcinoma|218,8/24/46,m,5/9/12,b,,,7/3/12,788.49,65.71,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|219,4/30/63,m,9/28/10,b,,,3/5/11,568.97,47.41,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|22,7/24/38,f,2/26/13,b,,,,895.07,74.59,41.23,0,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|220,12/15/46,f,10/26/11,b,,,12/24/11,778.35,64.86,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|224,2/28/65,f,2/28/08,b,,,6/27/08,516,43,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|226,1/6/57,m,11/7/12,b,,,12/3/13,670.03,55.83,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|228,8/6/48,m,11/22/10,b,,,1/29/11,747.53,62.3,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|232,11/11/55,f,7/27/06,b,,,6/27/07,608.52,50.71,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|238,9/12/38,f,3/20/07,b,,,2/2/10,822.26,68.52,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|248,2/1/60,f,9/28/09,b,,,12/13/09,595.9,49.65,,,Intrahepatic cholangiocarcinoma,unclassified
+Intrahepatic Cholangiocarcinoma|253,1/13/50,f,5/14/10,b,,,12/9/10,724.03,60.33,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|256,5/22/36,m,3/8/13,b,,,4/19/13,921.5,76.8,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|265,9/17/47,f,10/15/10,b,,,7/24/13,756.92,63.08,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|268,11/5/34,f,8/7/09,b,,,9/22/09,897.06,74.75,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|271,1/30/71,m,1/23/12,b,,,11/18/12,491.77,40.98,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|28,3/31/37,m,4/12/06,b,,,3/16/07,828.4,69.03,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|282,12/19/39,m,3/12/07,r,1,x,,806.71,67.23,112.68,0,Intrahepatic cholangiocarcinoma,intestinal
+Intrahepatic Cholangiocarcinoma|284,7/22/45,m,4/15/08,b,,,10/24/09,752.79,62.73,,,Intrahepatic cholangiocarcinoma,unclassified
+Intrahepatic Cholangiocarcinoma|289,12/13/37,f,4/26/12,r,4,1,9/8/12,892.43,74.37,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|293,7/20/65,f,10/29/12,b,,,5/10/13,567.29,47.28,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|299,2/13/51,m,5/16/06,b,,,9/18/06,663.1,55.25,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|300,3/1/30,f,1/2/12,r,1,0,,982.03,81.84,55,0,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|303,7/31/57,f,8/2/10,b,,,11/1/11,636.06,53.01,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|315,7/31/21,m,3/28/12,b,,,5/4/12,1087.8,90.66,,,Intrahepatic cholangiocarcinoma,unclassified
+Intrahepatic Cholangiocarcinoma|325,1/16/87,m,12/7/06,b,,,1/29/07,238.69,19.89,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|33,4/27/45,m,9/17/08,r,1,x,,760.7,63.39,94.52,0,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|330,1/17/42,f,3/5/13,b,,,5/24/14,853.55,71.13,,,Intrahepatic cholangiocarcinoma,unclassified
+Intrahepatic Cholangiocarcinoma|332,3/16/49,f,5/26/04,r,1,x,7/8/13,662.32,55.19,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|338,1/6/64,m,8/17/09,r,2,1,6/26/10,547.35,45.61,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|339,5/20/42,f,7/23/10,b,,,11/27/10,818.1,68.18,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|340,7/15/36,m,1/15/10,b,,,6/2/13,882,73.51,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|341,5/25/74,m,8/10/09,b,,,11/11/09,422.52,35.21,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|361,4/25/89,m,1/26/12,b,,,7/1/13,273.03,22.76,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|363,6/2/29,m,5/18/06,b,,,12/9/06,923.52,76.96,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|371,3/30/38,f,4/22/08,b,,,8/20/09,840.77,70.06,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|373,10/17/61,f,5/24/13,b,,,8/14/13,619.23,51.6,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|38,12/22/60,m,6/29/12,b,,,8/27/13,618.23,51.52,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|384,4/11/44,m,7/27/09,b,,,8/25/09,783.52,65.29,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|393,2/21/65,m,10/25/10,b,,,7/4/11,548.13,45.67,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|398,4/25/55,f,12/14/12,b,,,4/29/14,691.62,57.64,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|4,5/17/57,m,9/13/12,b,,,6/8/13,663.88,55.33,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|402,12/23/35,f,1/13/11,b,,,8/21/11,900.68,75.06,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|41,1/4/61,f,11/9/10,b,,,11/11/11,598.17,49.85,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|416,9/24/48,m,4/24/08,r,,,4/30/08,715,59.58,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|420,7/31/48,f,9/30/09,b,,,4/14/10,734,61.17,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|423,10/14/37,m,2/26/08,r,1,x,9/10/14,844.41,70.37,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|43,3/23/41,f,10/26/11,b,,,12/22/11,847.1,70.59,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|430,12/13/54,f,6/1/06,b,,,8/8/06,617.61,51.47,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|432,12/20/61,f,5/22/12,r,3,1,12/7/12,605.06,50.42,,,Intrahepatic cholangiocarcinoma,unclassified
+Intrahepatic Cholangiocarcinoma|51,6/2/49,m,10/17/11,r,2,0,,748.48,62.38,57.52,0,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|58,10/11/48,m,8/6/09,b,,,8/8/09,729.84,60.82,,,Intrahepatic cholangiocarcinoma,unclassified
+Intrahepatic Cholangiocarcinoma|67,3/19/44,m,7/25/11,b,,,10/17/11,808.19,67.35,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|71,4/4/51,f,4/4/05,b,,,7/3/07,648,54,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|73,8/10/38,f,12/30/11,b,3,0,,880.65,73.39,55.1,0,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|76,11/26/47,m,7/13/12,b,,,12/14/12,775.55,64.63,,,Intrahepatic cholangiocarcinoma,unclassified
+Intrahepatic Cholangiocarcinoma|79,4/9/61,m,5/17/10,r,2,1,2/20/13,589.26,49.1,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|8,5/19/43,m,2/1/11,r,1,0,10/18/13,812.42,67.71,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|81,5/15/33,f,6/7/13,b,,,2/16/14,960.75,80.06,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|88,6/16/36,f,6/8/12,b,,,10/14/13,911.75,75.98,,,Intrahepatic cholangiocarcinoma,extrahepatic pancreatobiliary
+Intrahepatic Cholangiocarcinoma|96,3/31/31,f,11/18/09,b,,,11/7/11,943.6,78.64,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|98,7/5/39,f,9/14/11,b,,,9/21/13,866.3,72.19,,,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Intrahepatic Cholangiocarcinoma|99,1/29/40,f,5/28/08,r,2,x,,819.94,68.33,98.16,0,Intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Pancreas Ac|10,9/22/40,f,3/9/09,b,,,3/17/09,821.53,68.46,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|100,1/18/42,f,5/31/07,b,,,1/5/08,784.42,65.36,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|104,3/12/46,m,3/16/11,b,,,7/21/11,780.13,65.01,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|109,3/24/48,f,4/16/09,r,2,1,9/14/09,732.76,61.06,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|110,3/18/48,m,6/14/10,r,3,1,9/1/10,746.89,62.24,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|115,1/20/38,m,10/1/12,b,,,7/17/13,896.37,74.69,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|117,3/2/36,f,3/31/11,r,3,1,8/30/14,900.94,75.08,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|122,12/1/49,m,4/1/10,r,3,1,8/31/10,724,60.33,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|123,2/18/36,f,5/3/07,r,4,1,11/6/07,854.5,71.2,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|13,8/20/54,m,1/14/11,b,,,7/6/11,676.81,56.4,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|137,3/8/26,f,5/23/07,r,2,1,6/3/16,974.48,81.21,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|138,6/23/42,f,9/9/09,b,,,11/5/09,806.56,67.21,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|139,4/18/52,f,12/20/10,b,,,2/10/11,704.06,58.67,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|14,3/25/28,f,4/2/09,r,3,1,2/9/10,972.26,81.02,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|145,10/17/31,f,3/23/11,b,,,4/6/11,953.19,79.43,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|15,10/26/32,f,3/30/05,b,,,9/11/05,869.13,72.43,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|156,1/11/45,m,7/8/10,r,3,1,1/19/12,785.89,65.49,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|16,9/26/35,f,10/1/08,b,,,7/6/09,876.17,73.01,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|168,10/21/44,m,6/23/10,b,,,6/10/11,788.07,65.67,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|169,1/19/49,m,11/25/10,r,2,0,,742.2,61.85,68.26,0,Ductal pancreatic adenocarcinoma,unclassified
+Pancreas Ac|17,2/2/35,m,10/13/09,b,,,6/14/10,896.35,74.69,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|174,8/12/47,f,10/21/10,b,,,11/12/10,758.29,63.19,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|178,6/7/50,m,6/8/11,r,2,1,,732.03,61,61.81,0,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|185,3/12/44,m,11/16/07,b,,,5/17/08,764.13,63.68,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|186,7/1/33,f,5/27/09,b,,,6/9/09,910.84,75.9,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|187,12/6/43,m,6/27/12,b,,,10/9/12,822.7,68.55,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|193,7/9/40,f,6/25/09,b,,,1/30/10,827.53,68.96,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|197,5/18/31,m,11/5/10,b,,,11/9/10,953.59,79.47,,,Ductal pancreatic adenocarcinoma,unclassified
+Pancreas Ac|199,7/18/58,m,5/10/05,b,,,7/2/05,561.72,46.81,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|2,7/1/38,f,4/13/12,b,,,6/24/12,885.4,73.78,,,Ductal pancreatic adenocarcinoma,intrahepatic cholangiocarcinoma
+Pancreas Ac|201,7/2/37,f,9/15/11,r,3,1,10/6/14,890.43,74.21,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|204,10/24/52,f,6/15/09,r,3,1,4/12/11,679.73,56.64,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|205,10/12/53,f,4/5/12,b,,,5/8/12,701.78,58.48,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|206,6/11/30,m,1/9/06,b,,,8/6/06,906.94,75.58,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|207,2/16/38,m,11/18/10,r,,,12/11/10,873.07,72.75,,,Ductal pancreatic adenocarcinoma,intrahepatic cholangiocarcinoma
+Pancreas Ac|208,10/10/33,f,9/20/12,b,,,12/11/12,947.33,78.94,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|212,4/22/40,m,11/29/11,b,,,12/29/11,859.23,71.61,,,Ductal pancreatic adenocarcinoma,intrahepatic cholangiocarcinoma
+Pancreas Ac|215,1/18/47,m,3/9/11,r,3,1,11/17/11,769.65,64.14,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|234,7/24/56,f,5/27/09,b,,,6/17/10,634.1,52.84,,,Ductal pancreatic adenocarcinoma,intestinal
+Pancreas Ac|24,3/6/28,f,9/14/12,b,,,9/22/13,1014.27,84.52,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|243,8/22/34,m,9/17/08,r,3,0,9/4/14,888.86,74.07,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|247,3/12/47,f,2/1/10,b,,,1/3/11,754.65,62.89,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|249,7/12/39,f,8/29/08,b,,,9/24/08,829.55,69.13,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|25,7/5/38,f,9/6/10,r,2,1,1/2/11,866.03,72.17,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|250,3/25/35,m,2/23/11,b,,,10/25/11,911.01,75.92,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|259,8/5/49,f,10/3/07,b,,,4/14/08,697.93,58.16,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|260,1/4/57,m,1/3/08,b,,,1/4/08,611.97,51,,,Ductal pancreatic adenocarcinoma,intrahepatic cholangiocarcinoma
+Pancreas Ac|264,12/25/49,f,11/1/10,b,,,3/4/11,730.23,60.85,,,Ductal pancreatic adenocarcinoma,intrahepatic cholangiocarcinoma
+Pancreas Ac|266,10/29/39,m,6/29/09,b,,,,836,69.67,85.13,0,Ductal pancreatic adenocarcinoma,intestinal
+Pancreas Ac|267,1/28/59,m,4/2/13,b,,,6/1/13,650.16,54.18,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|27,11/26/37,f,12/30/10,r,4,1,8/31/11,877.13,73.09,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|272,9/1/67,m,12/29/11,b,,,9/23/12,531.9,44.33,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|273,6/30/51,f,1/24/13,b,,,5/4/13,738.81,61.57,,,Ductal pancreatic adenocarcinoma,unclassified
+Pancreas Ac|276,6/8/45,m,12/8/11,b,,,1/2/12,798,66.5,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|277,12/30/31,m,12/15/05,b,,,1/5/06,887.48,73.96,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|280,1/31/49,m,7/26/12,b,,,1/4/13,761.81,63.48,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|290,12/15/41,f,1/19/11,r,3,1,5/23/12,829.13,69.1,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|291,2/10/41,m,3/1/10,r,3,1,9/18/10,828.68,69.05,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|294,2/4/46,f,9/10/07,r,3,1,9/20/08,739.2,61.6,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|296,5/6/50,m,10/19/05,b,,,5/26/07,665.42,55.45,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|30,6/8/31,m,12/6/07,b,,,5/5/08,917.93,76.5,,,Ductal pancreatic adenocarcinoma,intestinal
+Pancreas Ac|301,7/16/55,f,5/3/11,b,,,6/12/12,669.56,55.8,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|306,4/9/36,m,11/1/06,r,,,12/25/06,846.74,70.56,,,Ductal pancreatic adenocarcinoma,unclassified
+Pancreas Ac|310,1/28/52,m,3/27/09,b,,,4/27/10,685.91,57.16,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|316,6/26/28,m,2/2/10,b,,,9/23/10,979.23,81.61,,,Ductal pancreatic adenocarcinoma,intrahepatic cholangiocarcinoma
+Pancreas Ac|334,7/4/48,m,2/27/13,b,,,10/9/13,775.82,64.65,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|337,7/7/42,f,4/27/04,b,,,2/12/05,741.67,61.8,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|34,2/13/34,m,3/16/11,r,3,1,,925.1,77.08,64.55,0,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|344,4/14/44,f,6/16/05,b,,,11/21/05,734.07,61.17,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|348,11/4/44,m,6/11/10,b,,,7/22/10,787.23,65.6,,,Ductal pancreatic adenocarcinoma,intrahepatic cholangiocarcinoma
+Pancreas Ac|351,5/24/31,f,8/31/09,b,,,11/30/09,939.23,78.27,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|352,1/7/47,f,10/16/09,b,,,12/1/10,753.29,62.77,,,Ductal pancreatic adenocarcinoma,intestinal
+Pancreas Ac|353,3/15/34,f,1/27/06,b,,,11/9/06,862.39,71.87,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|354,4/13/42,m,2/8/11,b,,,8/25/11,825.87,68.82,,,Ductal pancreatic adenocarcinoma,unclassified
+Pancreas Ac|355,2/9/63,m,4/7/09,b,,,7/3/09,553.94,46.16,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|357,3/23/40,m,2/18/13,b,,,5/28/13,874.9,72.91,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|358,4/17/51,f,3/14/06,b,,,5/8/06,658.84,54.91,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|359,4/24/42,m,1/4/07,b,,,10/26/07,776.35,64.7,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|360,3/9/47,f,2/15/11,b,,,7/26/12,767.21,63.94,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|362,9/2/51,f,2/7/11,b,,,3/20/12,713.18,59.43,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|364,4/6/33,m,9/7/06,r,2,1,5/25/08,881.03,73.42,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|367,5/12/31,f,1/14/11,b,,,2/2/11,956.06,79.68,,,Ductal pancreatic adenocarcinoma,intestinal
+Pancreas Ac|369,10/31/36,f,1/20/11,r,3,1,,890.65,74.22,66.42,0,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|37,7/5/59,m,5/28/09,b,,,11/26/09,598.74,49.9,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|370,2/6/41,f,4/26/05,b,,,12/1/05,770.67,64.22,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|372,10/11/62,f,11/7/12,b,,,4/1/13,600.88,50.07,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|377,3/10/32,f,3/9/11,b,,,9/15/11,947.95,79,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|382,3/15/59,f,5/10/10,b,,,1/10/11,613.82,51.15,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|386,3/10/43,m,11/9/11,b,,,12/28/11,823.98,68.67,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|388,4/2/52,f,3/10/11,b,,,1/12/12,707.26,58.94,,,Ductal pancreatic adenocarcinoma,intestinal
+Pancreas Ac|392,9/19/29,f,10/4/07,r,3,1,4/10/10,936.5,78.04,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|397,4/10/48,m,9/12/12,b,,,9/12/13,773.07,64.42,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|40,12/9/64,f,5/2/05,b,,,8/10/05,484.76,40.4,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|405,10/6/51,m,1/12/11,r,4,1,,711.19,59.27,66.68,0,Ductal pancreatic adenocarcinoma,intestinal
+Pancreas Ac|406,2/2/42,f,4/5/13,b,,,5/20/13,854.1,71.17,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|407,3/6/55,m,10/5/12,b,,,6/9/13,690.96,57.58,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|414,5/27/45,m,12/30/09,r,3,1,9/13/11,775.1,64.59,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|418,5/6/33,m,6/12/12,b,,,7/16/12,949.2,79.1,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|426,9/11/43,m,5/7/04,b,,,12/22/04,727.86,60.65,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|431,6/9/51,f,8/19/10,b,,,9/10/10,710.32,59.19,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|435,5/18/43,m,3/22/13,b,,,4/23/13,838.13,69.84,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|439,12/10/56,m,9/7/09,b,,,12/4/09,632.91,52.75,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|44,3/15/45,f,1/4/06,r,2,1,4/3/07,729.65,60.81,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|45,11/12/34,m,1/10/06,b,,,1/30/06,853.94,71.16,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|49,3/10/61,m,7/14/08,b,,,5/13/09,568.13,47.34,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|52,3/5/55,m,11/16/06,r,3,1,8/19/07,620.37,51.7,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|53,12/9/37,m,3/19/07,r,3,1,4/3/07,831.32,69.27,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|56,8/2/70,m,12/18/07,b,,,1/13/09,448.52,37.38,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|60,3/30/46,f,9/30/05,r,2,1,3/2/06,714,59.5,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|61,2/1/38,f,12/5/12,b,,,2/2/13,898.13,74.84,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|63,7/1/25,f,4/25/08,b,,,8/17/08,993.8,82.82,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|64,7/18/45,m,11/9/10,b,,,6/2/11,783.72,65.31,,,Ductal pancreatic adenocarcinoma,intestinal
+Pancreas Ac|66,8/30/46,f,9/29/08,r,2,0,10/18/12,745,62.08,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|68,2/20/39,f,3/26/09,r,3,0,2/14/12,841.19,70.09,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|70,6/8/46,f,7/30/12,b,,,9/5/12,793.71,66.14,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|72,2/17/43,f,12/1/08,b,,,12/26/08,789.47,65.78,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|75,4/7/48,m,4/14/05,b,,,5/30/05,684.23,57.02,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|82,8/19/37,m,10/3/06,b,,,10/14/06,829.46,69.12,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|83,1/29/36,f,2/18/04,b,,,9/6/04,816.69,68.05,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|84,5/10/42,m,6/29/12,b,,,9/1/12,841.63,70.14,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|85,10/4/44,f,10/19/05,b,,,12/1/05,732.48,61.04,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|87,10/4/40,m,6/13/13,b,,,6/20/13,872.3,72.69,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Pancreas Ac|94,11/10/41,m,9/14/04,b,,,11/25/04,754.13,62.84,,,Ductal pancreatic adenocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|12,6/15/48,f,3/22/10,b,,,3/23/10,741.23,61.77,,,Perihilar cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Perihilary Ac|129,6/1/31,f,2/16/11,b,,,8/9/11,956.54,79.71,,,Perihilar cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Perihilary Ac|158,8/5/43,m,6/25/09,b,,,8/12/10,790.67,65.89,,,Perihilar cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Perihilary Ac|189,7/19/55,f,12/6/05,r,2,0,,604.56,50.38,127.87,0,Perihilar cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Perihilary Ac|231,7/4/49,m,2/10/09,r,1,0,11/21/13,715.21,59.61,,,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|236,2/20/38,m,6/26/09,b,,,7/28/09,856.2,71.35,,,Perihilar cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Perihilary Ac|244,8/23/30,f,3/10/10,b,,,1/12/11,954.5,79.55,,,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|269,12/4/43,m,9/26/12,b,,,11/30/13,825.73,68.81,,,Perihilar cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Perihilary Ac|288,1/20/53,m,5/13/08,r,3,0,3/9/11,663.75,55.31,,,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|302,5/6/47,m,6/29/12,b,,,2/1/14,781.77,65.15,,,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|305,11/19/38,f,10/27/05,r,3,0,,803.26,66.94,129.19,0,Perihilar cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Perihilary Ac|307,3/11/68,m,4/19/12,b,,,2/1/13,529.27,44.11,,,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|313,4/8/43,f,9/25/09,b,,,11/19/09,797.57,66.47,,,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|314,6/28/46,f,9/19/11,b,,,1/28/13,782.73,65.23,,,Perihilar cholangiocarcinoma,unclassified
+Perihilary Ac|385,4/18/47,f,3/9/12,b,,,2/8/14,778.65,64.89,,,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|394,8/4/60,f,12/13/10,r,3,1,,604.29,50.36,67.65,0,Perihilar cholangiocarcinoma,unclassified
+Perihilary Ac|395,10/24/30,m,1/18/12,b,,,5/8/12,974.81,81.24,,,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|404,3/1/53,m,1/30/12,r,2,0,9/17/14,706.94,58.92,,,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|417,11/22/72,f,1/20/05,r,2,0,8/20/07,385.94,32.16,,,Perihilar cholangiocarcinoma,intestinal
+Perihilary Ac|419,12/8/75,m,6/27/11,b,,,7/20/12,426.63,35.55,,,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|437,2/17/32,f,12/10/08,r,3,x,,921.76,76.81,91.74,0,Perihilar cholangiocarcinoma,intrahepatic cholangiocarcinoma
+Perihilary Ac|6,4/13/57,f,11/28/11,r,2,0,,655.5,54.63,56.16,0,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
+Perihilary Ac|9,11/7/44,m,10/7/09,b,,,12/14/13,779,64.92,,,Perihilar cholangiocarcinoma,extrahepatic pancreatobiliary
