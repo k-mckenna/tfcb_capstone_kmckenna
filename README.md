@@ -10,8 +10,8 @@ My 3 research questions:
 3. Which 5 IHC markers are most differentially expresses by the Immunohistochemical clusters and can they help to identify certain clusters?
 
 My repository is set up with 4 directories:
-raw/ which includes 2 raw files from the paper- clinical data and raw
-data/ which includes the tidy datasets- imputed, clustered, clustered_num, survival_
-images/ which include the output answers for each question (labeled with Q1-Q3)
-code/ which includes a script for each question. 2 Rmd and 1 ipynb labeled with Q1-Q3
+1. raw/ which includes 2 raw files from the paper- clinical data and raw
+2. data/ which includes the tidy datasets- imputed, clustered, clustered_num, survival_
+3. images/ which include the output answers for each question (labeled with Q1-Q3)
+4. code/ which includes a script for each question. 2 Rmd and 1 ipynb labeled with Q1-Q3
 
