@@ -1,5 +1,5 @@
 ---
-title: "question1_kmckenna_capstone"
+title: "kmckenna_capstone_Q1"
 author: "Kelly McKenna"
 date: "12/15/2020"
 output: html_document
@@ -911,6 +911,7 @@ write.csv(kmckennaDataImputed, clusteredKMFileName, row.names=F, na="")
 ```
 
 -- End of hierarchical cluster analysis --
+plot justification: I decided to try and recreate the papers figure to see how reproducible their code was and to create the tidy datasets. 
 
 Reproducibility:
 I was able to take the code from the paper and recreate their figure. The directories need to be changed for different users. This code  should work for anyone else. I original code had some errors with wrong type or data or coercion, but I was able to figure out the bugs and make it work. 
